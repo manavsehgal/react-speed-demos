@@ -89,6 +89,20 @@ body {
 }
 
 /* ==============
+    Images
+   ============== */
+
+.image__link {
+  transition: 0.5s opacity;
+}
+
+.image__link:hover {
+  opacity: 0.8;
+  border-bottom: 0;
+}
+
+
+/* ==============
     MOBILE: Menu
    ============== */
 
